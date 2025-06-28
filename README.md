@@ -7,7 +7,7 @@ I also work as a **Creative Virtual Assistant**, blending design skills with tec
 
 - 🌱 Currently learning: **HTML, CSS, JavaScript (beginner level)**  
 - 🔭 Working on: **responsive web pages, basic interactive JavaScript apps**  
-- 📫 Reach me at: **williamssarahadesola@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sarahwilliams)  
+- 📫 Reach me at: **williamssarahadesola@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sarahadesolawilliams)  
 - ⚡ Fun fact: I love finding creative ways to combine design and technology!
 
 ## My Skills  
